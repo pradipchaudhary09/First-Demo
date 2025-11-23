@@ -1,4 +1,4 @@
 # First-Demo
 it is my first Reposetry
 <br>
-Author - Pradip Chaudhary
+Author - Pradip Chaudhary(M.sc)
